@@ -1,0 +1,2 @@
+matplotlib==3.5.1
+paho_mqtt==2.0.0
